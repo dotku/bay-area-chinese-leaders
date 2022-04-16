@@ -34,3 +34,7 @@
 | William Wang | CEO, Vizio ||
 | Jun-Yan Zhu | Assistant Professor, Carnegie Mellon University ||
 | Deb Liu | CEO, Ancestry ||
+| Tim Li | HireIO | 人才招聘 |
+| Tom Zhang | Harmony | 硅谷猎头 |
+| Stephen Tse | Hoarmony | 加密币 |
+| Changpeng Zhao | CEO, Binance | 加密币 |
