@@ -32,3 +32,4 @@
 | Victor Tsao | co-founder, Linksys ||
 | An Wang | Wang Laboratories ||
 | William Wang | CEO, Vizio ||
+| Jun-Yan Zhu | Assistant Professor, Carnegie Mellon University ||
