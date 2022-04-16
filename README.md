@@ -17,3 +17,7 @@
 | Tony Zhang | CEO, BlueJay Mobile | |
 | Shouzi Chew | CEO, TikTok | |
 | yao Zhao | Council Member, Saratoga | |
+| Eric Yuan | CEO, Zoom | |
+| Jensen Huang | CEO, Navidia ||
+| Lisa Su | CEO, AMD ||
+| Priscilla Chan | Co-founder, Chan Zuckerberg Initiative ||
