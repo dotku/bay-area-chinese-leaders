@@ -1,4 +1,4 @@
-# US Chinese Leaders
+# USA Chinese Leaders
 
 很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)，到底如何突破这层的天花板呢？我这里总结了几点:
 
