@@ -15,3 +15,4 @@
 | 宝二爷 | | 加密币早期参与者 |
 | Diana Ding | CEO, Dingding TV | |
 | Tony Zhang | CEO, BlueJay Mobile | |
+| Shouzi Chew | CEO, TikTok | |
