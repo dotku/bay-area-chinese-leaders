@@ -16,3 +16,4 @@
 | Diana Ding | CEO, Dingding TV | |
 | Tony Zhang | CEO, BlueJay Mobile | |
 | Shouzi Chew | CEO, TikTok | |
+| yao Zhao | Council Member, Saratoga | |
