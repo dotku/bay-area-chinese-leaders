@@ -21,6 +21,6 @@
 | Jensen Huang | CEO, Navidia ||
 | Lisa Su | CEO, AMD ||
 | Priscilla Chan | Co-founder, Chan Zuckerberg Initiative ||
-| John Liu | Asian Americans in Business || 
+| John Liu | Founder, New York Young Elite Association || 
 | Kaobo Huang | Idea Campus ||
 | Brain Ho | Founder, News for Chinese ||
