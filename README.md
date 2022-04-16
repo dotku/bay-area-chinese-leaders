@@ -22,3 +22,5 @@
 | Lisa Su | CEO, AMD ||
 | Priscilla Chan | Co-founder, Chan Zuckerberg Initiative ||
 | John Liu | Asian Americans in Business || 
+| Kaobo Huang | Idea Campus ||
+| Brain Ho | Founder, News for Chinese ||
