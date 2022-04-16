@@ -38,3 +38,6 @@
 | Tom Zhang | Harmony | 硅谷猎头 |
 | Stephen Tse | Hoarmony | 加密币 |
 | Changpeng Zhao | CEO, Binance | 加密币 |
+
+> There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
+> -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
