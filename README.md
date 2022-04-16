@@ -24,3 +24,11 @@
 | John Liu | Founder, New York Young Elite Association || 
 | Kaobo Huang | Idea Campus ||
 | Brain Ho | Founder, News for Chinese ||
+| James Chu | Founder, CEO, ViewSonic ||
+| Weili Dai | Founder, MarvellTehcnology ||
+| Yi Liu | Founder, iHealth Lab ||
+| Min Kao | Co-founder, Garmin ||
+| David Sun | co-founder, Kingston Technologies ||
+| Victor Tsao | co-founder, Linksys ||
+| An Wang | Wang Laboratories ||
+| William Wang | CEO, Vizio ||
