@@ -1,6 +1,10 @@
 # Chinese Leaders
 
-很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)
+很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)，到底如何突破这层的天花板呢？我这里总结了几点:
+
+1. CEO 也是一种职业，也需要一些 Skill Set，胆魄和眼界很重要;
+2. 突破文化界限，可以从同事兴趣出发打成一片;
+3. 办公政治不可避免
 
 | Name | Position | Description |
 | --- | --- | --- |
