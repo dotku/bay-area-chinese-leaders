@@ -40,6 +40,7 @@
 | Stephen Tse | Hoarmony | 加密币 |
 | Changpeng Zhao | CEO, Binance | 加密币 |
 | Michelle Yeoh | Malaysian actress | 演员 |
+| Jackie Chen | | 演员 |
 | Ingrid Chunyuan Wu & Pan Zhengmin | Co-founder, AAC Technologies ||
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
@@ -48,4 +49,4 @@
 ## Standard
 
 1. Must be at least 10K flueance, either has listed in the news or has publican.
-2. Must be USA citizen/green card hodler, or live in the US more then 5 years.
+2. Must be USA citizen/green card hodler, or live in the US more then 1 year.
