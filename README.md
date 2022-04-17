@@ -42,6 +42,11 @@
 | Michelle Yeoh | Malaysian actress | 演员 |
 | Jackie Chen | | 演员 |
 | Ingrid Chunyuan Wu & Pan Zhengmin | Co-founder, AAC Technologies ||
+| Chen Ning Yang | Nobel laureate, Physics ||
+| Fei-Fei Li | Google Cloud ||
+| Andrew Ng | AI Industry Leader ||
+| Eileen Gu | Free style skier and Olympic gold medalist ||
+| Jeremy Lin | professional basketball player ||
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
@@ -50,3 +55,4 @@
 
 1. Must be at least 10K influence, either has listed in the news or has publican.
 2. Must be USA citizen/green card hodler, or live in the US more then 5 year.
+3. Must be still alive
