@@ -29,6 +29,7 @@
 | Yi Liu | Founder, iHealth Lab ||
 | Min Kao | Co-founder, Garmin ||
 | David Sun | co-founder, Kingston Technologies ||
+| John Tu | co-founder, Kingston Technologies ||
 | Victor Tsao | co-founder, Linksys ||
 | An Wang | Wang Laboratories ||
 | William Wang | CEO, Vizio ||
@@ -39,6 +40,7 @@
 | Stephen Tse | Hoarmony | 加密币 |
 | Changpeng Zhao | CEO, Binance | 加密币 |
 | Michelle Yeoh | Malaysian actress | 演员 |
+| Ingrid Chunyuan Wu & Pan Zhengmin | Co-founder, AAC Technologies ||
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
