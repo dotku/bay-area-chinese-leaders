@@ -55,4 +55,4 @@
 
 1. Must be at least 10K influence, either has listed in the news or has publican.
 2. Must be USA citizen/green card hodler, or live in the US more then 5 year.
-3. Must be still alive
+3. Must be still alive.
