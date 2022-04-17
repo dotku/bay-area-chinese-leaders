@@ -41,3 +41,8 @@
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
+
+## Standard
+
+1. Must be at least 10K flueance, either has listed in the news or has publican.
+2. Must be USA citizen/green card hodler, or live in the US more then 5 years.
