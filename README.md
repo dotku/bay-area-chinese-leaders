@@ -51,6 +51,7 @@ USA
 | Jeremy Lin | professional basketball player ||
 | Qian | 跟我一起来谈钱 | 业内人士，业余博主，CPA和CFA持证人 |
 | 冯沁原 | CEO, BigTiger (关闭于 2019) ||
+| Connie | Real Estate ||
 | Ariel Liu | COO, 喜马拉雅 ||
 | Ali Wong | comedian ||
 | 蒋甲 | Entrepreneur | TED Speaker with 8mm views|
