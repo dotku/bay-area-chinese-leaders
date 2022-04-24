@@ -1,10 +1,12 @@
-# USA Chinese Leaders
+# Overseas Chinese Leaders
 
 很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)，到底如何突破这层的天花板呢？我这里总结了几点:
 
 1. CEO 也是一种职业，也需要一些 Skill Set，胆魄和眼界很重要;
 2. 突破文化界限，可以从同事兴趣出发打成一片;
 3. 办公政治不可避免
+
+USA
 
 | Name | Position | Description |
 | --- | --- | --- |
@@ -49,6 +51,13 @@
 | Jeremy Lin | professional basketball player ||
 | Qian | 跟我一起来谈钱 | 业内人士，业余博主，CPA和CFA持证人 |
 | 冯沁原 | CEO, BigTiger (关闭于 2019) ||
+
+Austrialia
+
+| Name | Position | Description |
+| --- | --- | --- |
+| 小乌 | 脑洞乌托邦 ||
+
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
