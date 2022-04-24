@@ -51,6 +51,7 @@ USA
 | Jeremy Lin | professional basketball player ||
 | Qian | 跟我一起来谈钱 | 业内人士，业余博主，CPA和CFA持证人 |
 | 冯沁原 | CEO, BigTiger (关闭于 2019) ||
+| Ali Wong | comedian ||
 | 蒋甲 | Entrepreneur | TED Speaker with 8mm views|
 
 Austrialia
@@ -60,7 +61,6 @@ Austrialia
 | 小乌 | 脑洞乌托邦 ||
 | Henry | 澳洲 Henry ||
 | Rony Naviando | Robot PhD ||
-
 
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
