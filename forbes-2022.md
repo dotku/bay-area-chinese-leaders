@@ -14,3 +14,6 @@
 | 330 | Wee Cho Yaw | is chairman emeritus of United Overseas Bank, Singapore's third-largest bank by assets. | Finance |
 | 424 | Leo Koguan | Leo Koguan is the cofounder and chairman of $11.1 billion (sales) IT provider SHI International | Tech |
 | 431 | Gary Wang | cofounded and serves as chief technology officer of cryptocurrency exchange FTX. | Tech, Finance |
+
+Resournce: 
+* https://www.forbes.com/billionaires/
