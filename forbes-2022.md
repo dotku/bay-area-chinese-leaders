@@ -1,6 +1,6 @@
 # Forbes
 
-* 必须是海外国际的华人（中国大陆/台湾除外）
+Forbes 一共收录了 2578 个亿万富翁（10 亿级别），以下列出排行最前的 10 个华人以及相关的行业，供参考。
 
 | Rank | Name | Description | Industry | 
 | --- | --- | --- | --- |
@@ -15,6 +15,8 @@
 | 424 | Leo Koguan | Leo Koguan is the cofounder and chairman of $11.1 billion (sales) IT provider SHI International | Tech |
 | 431 | Gary Wang | cofounded and serves as chief technology officer of cryptocurrency exchange FTX. | Tech, Finance |
 
+* 必须是海外国际的华人（中国大陆/台湾除外）
+
 分类统计:
 
 | 分类 | 数量 |
@@ -24,8 +26,6 @@
 | Manufacture | 3 |
 | Medical | 1 |
 | Real Esate | 1 |
-
-
 
 来源: 
 * https://www.forbes.com/billionaires/
