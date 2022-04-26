@@ -57,6 +57,12 @@ USA
 | Ali Wong | comedian ||
 | 蒋甲 | Entrepreneur | TED Speaker with 8mm views|
 
+Japan
+
+| Name | Position | Description |
+| --- | --- | --- |
+| 小船 | 创业导师 ||
+
 Austrialia
 
 | Name | Position | Description |
