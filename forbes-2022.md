@@ -15,5 +15,17 @@
 | 424 | Leo Koguan | Leo Koguan is the cofounder and chairman of $11.1 billion (sales) IT provider SHI International | Tech |
 | 431 | Gary Wang | cofounded and serves as chief technology officer of cryptocurrency exchange FTX. | Tech, Finance |
 
-Resournce: 
+分类统计:
+
+| 分类 | 数量 |
+| --- | --- | 
+| Tech | 5 |
+| Finance | 4 |
+| Manufacture | 3 |
+| Medical | 1 |
+| Real Esate | 1 |
+
+
+
+来源: 
 * https://www.forbes.com/billionaires/
