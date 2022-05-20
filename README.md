@@ -56,6 +56,7 @@ USA
 | Ariel Liu | COO, 喜马拉雅 ||
 | Ali Wong | comedian ||
 | 蒋甲 | Entrepreneur | TED Speaker with 8mm views|
+| Rocky | YouTuber ||
 
 Japan
 
