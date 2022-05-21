@@ -57,6 +57,7 @@ USA
 | Ali Wong | comedian ||
 | 蒋甲 | Entrepreneur | TED Speaker with 8mm views|
 | Rocky | YouTuber ||
+| Linda | YouTuber | https://www.youtube.com/channel/UC2Ir2sdKZ4fTr6xo5J9SuVw |
 
 Japan
 
