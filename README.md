@@ -59,6 +59,12 @@ USA
 | Rocky | YouTuber ||
 | Linda | YouTuber | https://www.youtube.com/channel/UC2Ir2sdKZ4fTr6xo5J9SuVw |
 
+Canada
+
+| Name | Position | Description |
+| --- | --- | --- |
+| 汤山老王 | YouTuber||
+
 Japan
 
 | Name | Position | Description |
