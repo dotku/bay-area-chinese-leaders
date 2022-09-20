@@ -16,11 +16,11 @@ USA
 | Q Zhao | CEO, 2redbeans.com | |
 | Cat Chen | Investor | 曾就职于 Facebook, 资深工程师 |
 | 宝二爷 | | 加密币早期参与者 |
-| Diana Ding | CEO, Dingding TV | |
-| Tony Zhang | CEO, BlueJay Mobile | |
-| Shouzi Chew | CEO, TikTok | |
-| Yao Zhao | Council Member, Saratoga | |
-| Eric Yuan | CEO, Zoom | |
+| Diana Ding | CEO, Dingding TV ||
+| Tony Zhang | CEO, BlueJay Mobile ||
+| Shouzi Chew | CEO, TikTok ||
+| Yao Zhao | Council Member, Saratoga ||
+| Eric Yuan | CEO, Zoom ||
 | Jensen Huang | CEO, Navidia ||
 | Lisa Su | CEO, AMD ||
 | Priscilla Chan | Co-founder, Chan Zuckerberg Initiative ||
