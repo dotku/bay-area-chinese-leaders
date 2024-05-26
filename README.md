@@ -81,6 +81,12 @@ Austrialia
 | Henry | 澳洲 Henry ||
 | Rony Naviando | Robot PhD ||
 
+Malaysia
+
+| Name | Position | Description |
+| --- | --- | --- |
+| Nomad | Finance | 從英國移居馬里西亞，剛剛獲得財富自由的博主 |
+
 > There are approximately 394 public tech companies and 492,156 private tech companies in the US. 
 > -- [Statistics about the tech work force in the US](https://askwonder.com/research/statistics-tech-work-force-us-employees-work-private-companies-public-companies-1rhgo54r5)
 
